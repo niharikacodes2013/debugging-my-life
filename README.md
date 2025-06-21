@@ -1,4 +1,4 @@
-# 💻🩷 Diary of a Coding Cutie
+# 💻🩷 Debugging my Life
 
 Hii, I'm Niharika, and this is my tech diary 🧠🌸  
 I'm an electronics & embedded systems baddie who cries over C code but still slays.
